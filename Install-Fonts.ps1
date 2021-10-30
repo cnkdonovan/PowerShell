@@ -19,7 +19,6 @@
 
 .NOTES
     Written by Chris Donovan, June 2020
-    Email: nerd4hire@iinet.net.au
 
     Revision:	
        
